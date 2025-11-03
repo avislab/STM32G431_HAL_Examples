@@ -1,0 +1,4 @@
+../Core/Src/usb_hid_keyboard_mouse.c:19:13:USB_HID_charToCode	16	static
+../Core/Src/usb_hid_keyboard_mouse.c:89:6:USB_HID_Keyboard_SendChar	16	static
+../Core/Src/usb_hid_keyboard_mouse.c:109:6:USB_HID_Keyboard_SendString	24	static
+../Core/Src/usb_hid_keyboard_mouse.c:121:6:USB_HID_Mouse_Move	24	static

@@ -1,0 +1,6 @@
+../USB_Device/App/usbd_dfu_flash.c:260:10:FLASH_If_Read	4	static
+../USB_Device/App/usbd_dfu_flash.c:284:10:FLASH_If_GetStatus	0	static
+../USB_Device/App/usbd_dfu_flash.c:230:10:FLASH_If_Write	24	static
+../USB_Device/App/usbd_dfu_flash.c:196:10:FLASH_If_Erase	32	static
+../USB_Device/App/usbd_dfu_flash.c:178:10:FLASH_If_DeInit	8	static
+../USB_Device/App/usbd_dfu_flash.c:160:10:FLASH_If_Init	8	static
