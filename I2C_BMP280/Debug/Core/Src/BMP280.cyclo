@@ -1,0 +1,6 @@
+BMP280.c:11:7:bmp280ReadByte	2
+BMP280.c:20:10:bmp280ReadShort	2
+BMP280.c:29:10:bmp280ReadLong	2
+BMP280.c:38:6:bmp280WriteByte	2
+BMP280.c:46:6:BMP280_Init	2
+BMP280.c:81:6:BMP280_Convert	3
