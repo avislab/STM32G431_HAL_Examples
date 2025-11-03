@@ -1,0 +1,8 @@
+../Core/Src/mp3_lib.c:30:6:MP3_init	16	static
+../Core/Src/mp3_lib.c:43:6:MP3_clear_RXBuffer	4	static
+../Core/Src/mp3_lib.c:54:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/mp3_lib.c:111:10:MP3_checksum	16	static
+../Core/Src/mp3_lib.c:122:6:MP3_send_cmd	24	static
+../Core/Src/mp3_lib.c:152:6:MP3_say	40	static
+../Core/Src/mp3_lib.c:217:6:MP3_queue_processing	8	static
+../Core/Src/mp3_lib.c:229:6:MP3_set_folder	16	static
