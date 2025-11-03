@@ -1,0 +1,78 @@
+<html>
+
+<title>FIR Coefficent Convertor</title>
+
+<body>
+
+<style>
+
+</style>
+
+<table border="0">
+  <tr>
+    <td>
+      <label for="src">Float</label>
+      <div><textarea id="src" cols="40" rows="20">
+0.000000000000000000
+0.000107861546641532
+0.000000000000000000
+-0.001386222996568603
+-0.004936780173998963
+-0.009604845224925130
+-0.010639726158524238
+0.000000000000000004
+0.029572180058251189
+0.078335652147908705
+0.135649458517869415
+0.182548587857091021
+0.200707668852509902
+0.182548587857091049
+0.135649458517869415
+0.078335652147908746
+0.029572180058251206
+0.000000000000000004
+-0.010639726158524243
+-0.009604845224925138
+-0.004936780173998963
+-0.001386222996568605
+0.000000000000000000
+0.000107861546641533
+0.000000000000000000
+</textarea></div>
+    </td>
+
+    <td>
+      <button type="button" onclick="convert()">Convert ></button>
+    </td>
+
+    <td>
+      <label for="dst">Int</label>
+      <div><textarea id="dst" cols="40" rows="20"></textarea></div>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+<script>
+function convert () {
+
+  let inputArray = document.getElementById('src').value.trim().split('\n')
+
+  inputArray = inputArray.map(function(item) {
+    let value = parseFloat(item)
+    return Math.floor(parseFloat(item) * 32768)
+  })
+
+  document.getElementById('dst').innerHTML = inputArray.join(", ")
+}
+
+</script>
+
+</body>
+</html>
