@@ -1,0 +1,5 @@
+../Core/Src/ws2812.c:19:6:WS2812_Init	1
+../Core/Src/ws2812.c:31:6:WS2812_SetBrightness	2
+../Core/Src/ws2812.c:46:6:WS2812_SetLED	1
+../Core/Src/ws2812.c:52:6:WS2812_Send	6
+../Core/Src/ws2812.c:96:6:WS2812_SendFinishedCallback	1

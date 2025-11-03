@@ -1,0 +1,5 @@
+../Core/Src/ws2812.c:19:6:WS2812_Init	24	static
+../Core/Src/ws2812.c:31:6:WS2812_SetBrightness	24	static
+../Core/Src/ws2812.c:46:6:WS2812_SetLED	16	static
+../Core/Src/ws2812.c:52:6:WS2812_Send	40	static,ignoring_inline_asm
+../Core/Src/ws2812.c:96:6:WS2812_SendFinishedCallback	16	static
