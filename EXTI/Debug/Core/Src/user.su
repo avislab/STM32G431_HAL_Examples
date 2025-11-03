@@ -1,0 +1,2 @@
+../Core/Src/user.c:11:6:USER_loop	16	static
+../Core/Src/user.c:28:6:HAL_GPIO_EXTI_Callback	16	static
