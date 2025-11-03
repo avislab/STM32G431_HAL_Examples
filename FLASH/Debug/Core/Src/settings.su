@@ -1,0 +1,3 @@
+../Core/Src/settings.c:12:6:SettingsInit	8	static
+../Core/Src/settings.c:24:6:SettingsSave	40	static
+../Core/Src/settings.c:50:6:SettingsLoad	24	static

@@ -1,0 +1,3 @@
+../Core/Src/settings.c:12:6:SettingsInit	2
+../Core/Src/settings.c:24:6:SettingsSave	7
+../Core/Src/settings.c:50:6:SettingsLoad	2
