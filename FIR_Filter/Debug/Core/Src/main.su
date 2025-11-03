@@ -1,0 +1,9 @@
+../Core/Src/main.c:138:6:ADCArrayToFIR	8	static
+../Core/Src/main.c:150:5:main	16	static
+../Core/Src/main.c:218:6:SystemClock_Config	88	static
+../Core/Src/main.c:264:13:MX_ADC1_Init	56	static
+../Core/Src/main.c:341:13:MX_TIM6_Init	24	static
+../Core/Src/main.c:379:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:425:13:MX_DMA_Init	16	static
+../Core/Src/main.c:444:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:486:6:Error_Handler	4	static,ignoring_inline_asm
