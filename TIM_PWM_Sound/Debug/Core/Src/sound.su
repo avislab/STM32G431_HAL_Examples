@@ -1,0 +1,3 @@
+../Core/Src/sound.c:71:6:sound	16	static
+../Core/Src/sound.c:89:6:StartMusic	8	static
+../Core/Src/sound.c:95:6:HAL_TIM_PeriodElapsedCallback	16	static
