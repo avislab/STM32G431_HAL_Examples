@@ -1,0 +1,2 @@
+../Core/Src/reset_cause.c:7:15:reset_cause_get	7
+../Core/Src/reset_cause.c:77:13:reset_cause_get_name	8
