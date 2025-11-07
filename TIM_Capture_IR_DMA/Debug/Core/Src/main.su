@@ -1,8 +1,0 @@
-../Core/Src/main.c:78:6:DMA1_Channel1_IRQ	40	static
-../Core/Src/main.c:141:5:main	8	static
-../Core/Src/main.c:191:6:SystemClock_Config	88	static
-../Core/Src/main.c:237:13:MX_TIM3_Init	72	static
-../Core/Src/main.c:311:13:MX_USART1_UART_Init	8	static
-../Core/Src/main.c:357:13:MX_DMA_Init	16	static
-../Core/Src/main.c:376:13:MX_GPIO_Init	48	static
-../Core/Src/main.c:418:6:Error_Handler	4	static,ignoring_inline_asm
