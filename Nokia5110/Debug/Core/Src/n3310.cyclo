@@ -1,0 +1,16 @@
+n3310.c:5:13:_lcd_send	4
+n3310.c:34:6:LCD_Init	1
+n3310.c:62:6:LCD_Update	6
+n3310.c:91:6:LCD_Clear	1
+n3310.c:101:6:LCD_WriteToCache	1
+n3310.c:106:6:LCD_Contrast	1
+n3310.c:115:9:LCD_DrawPixel	8
+n3310.c:161:9:LCD_DrawLine	11
+n3310.c:243:9:LCD_DrawCircle	5
+n3310.c:270:9:LCD_DrawRect	9
+n3310.c:299:9:LCD_SetTextPos	3
+n3310.c:307:9:LCD_Chr	25
+n3310.c:460:9:LCD_Print	3
+n3310.c:474:10:LCD_IvertLineFragment	2
+n3310.c:486:10:LCD_IvertLine	2
+n3310.c:499:9:LCD_Image	1
