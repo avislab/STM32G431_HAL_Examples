@@ -1,0 +1,12 @@
+../Core/Src/crsf.c:21:5:TICKS_TO_US	16	static
+../Core/Src/crsf.c:45:9:crc8	24	static
+../Core/Src/crsf.c:53:6:processLink_Statistics	16	static
+../Core/Src/crsf.c:70:6:processLink_RC_Channels	16	static
+../Core/Src/crsf.c:92:6:checkValidPakage	16	static
+../Core/Src/crsf.c:129:6:HAL_UARTEx_RxEventCallback	16	static
+../Core/Src/crsf.c:149:6:CRSF_StartReceive	8	static
+../Core/Src/crsf.c:158:6:CRSF_StartSendFrame	8	static
+../Core/Src/crsf.c:164:6:CRSF_MakeFrame	16	static
+../Core/Src/crsf.c:186:14:CRSF_GetChannel	16	static
+../Core/Src/crsf.c:190:6:CRSF_IncCounter	4	static
+../Core/Src/crsf.c:196:9:CRSF_GetCounter	4	static

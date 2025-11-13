@@ -1,0 +1,12 @@
+crsf.c:21:5:TICKS_TO_US	2
+crsf.c:45:9:crc8	2
+crsf.c:53:6:processLink_Statistics	1
+crsf.c:70:6:processLink_RC_Channels	1
+crsf.c:92:6:checkValidPakage	7
+crsf.c:129:6:HAL_UARTEx_RxEventCallback	5
+crsf.c:149:6:CRSF_StartReceive	1
+crsf.c:158:6:CRSF_StartSendFrame	1
+crsf.c:164:6:CRSF_MakeFrame	1
+crsf.c:186:14:CRSF_GetChannel	1
+crsf.c:190:6:CRSF_IncCounter	2
+crsf.c:196:9:CRSF_GetCounter	1

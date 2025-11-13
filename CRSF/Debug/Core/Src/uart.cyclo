@@ -1,0 +1,12 @@
+uart.c:21:5:TICKS_TO_US	2
+uart.c:45:9:crc8	2
+uart.c:53:6:processLink_Statistics	1
+uart.c:70:6:processLink_RC_Channels	1
+uart.c:92:6:checkValidPakage	7
+uart.c:129:6:HAL_UARTEx_RxEventCallback	5
+uart.c:149:6:Uart_StartReceive	1
+uart.c:158:6:Uart_StartSendFrame	1
+uart.c:166:6:Make_Frame	1
+uart.c:188:14:Uart_GetChannel	1
+uart.c:192:6:Uart_IncCounter	2
+uart.c:198:9:Uart_GetCounter	1

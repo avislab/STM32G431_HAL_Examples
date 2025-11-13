@@ -1,0 +1,12 @@
+../Core/Src/uart.c:21:5:TICKS_TO_US	16	static
+../Core/Src/uart.c:45:9:crc8	24	static
+../Core/Src/uart.c:53:6:processLink_Statistics	16	static
+../Core/Src/uart.c:70:6:processLink_RC_Channels	16	static
+../Core/Src/uart.c:92:6:checkValidPakage	16	static
+../Core/Src/uart.c:129:6:HAL_UARTEx_RxEventCallback	16	static
+../Core/Src/uart.c:149:6:Uart_StartReceive	8	static
+../Core/Src/uart.c:158:6:Uart_StartSendFrame	8	static
+../Core/Src/uart.c:166:6:Make_Frame	16	static
+../Core/Src/uart.c:188:14:Uart_GetChannel	16	static
+../Core/Src/uart.c:192:6:Uart_IncCounter	4	static
+../Core/Src/uart.c:198:9:Uart_GetCounter	4	static
